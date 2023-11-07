@@ -8,8 +8,8 @@
 .item {
     display: flex;
     flex-wrap: wrap;
-    border: 2px solid;
-    border-color: orange;
+    border: 3px solid;
+    border-color: darkslategrey;
     position: relative;
     padding: 10px 30px;
     margin-bottom: 15px;
