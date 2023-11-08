@@ -1,5 +1,5 @@
 import transactions from "../../data/transactions.json";
-import css from "../transactionHistory/transactionHistory.module.css"
+import css from "../TransactionHistory/TransactionHistory.module.css"
 
 export const TransactionHistory = () => (<table className={css.transaction_history}>
 <thead>

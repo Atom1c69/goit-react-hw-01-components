@@ -1,5 +1,5 @@
 import data from "../../data/data.json";
-import css from "../statistics/statistics.module.css"
+import css from "../Statistics/Statistics.module.css"
 
 
 const Statistics = ({title,data}) => ( <section className={css.statistics}>

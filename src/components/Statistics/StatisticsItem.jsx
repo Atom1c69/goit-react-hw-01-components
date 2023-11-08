@@ -1,5 +1,5 @@
 import data from "../../data/data.json";
-import css from "../statistics/statistics.module.css"
+import css from "../Statistics/Statistics.module.css"
 
 const StatisticsItem  = () => {
 return data.map((el)=> (
