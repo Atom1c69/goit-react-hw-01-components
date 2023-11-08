@@ -1,5 +1,5 @@
 import "../../data/friends.json";
- import FriendListItem from "../friendlistitem/friendlistitem"
+ import FriendListItem from "../FriendListItem/FriendListItem"
  import css from "../friendlistitem/friendListItem.module.css";
 
  const FriendList = () => (

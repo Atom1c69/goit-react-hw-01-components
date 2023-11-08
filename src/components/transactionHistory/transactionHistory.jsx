@@ -13,11 +13,3 @@ export const TransactionHistory = () => (<table className={css.transaction_histo
 <TransactionHistoryItem/>
 </tbody>
 </table>);
-
-const TransactionHistoryItem = () => {
-    return transactions.map(({id,type,amount,currency})=> (<tr key={id}>
-        <td>{type}</td>
-        <td>{amount}</td>
-        <td>{currency}</td>
-      </tr>
-      ))};
