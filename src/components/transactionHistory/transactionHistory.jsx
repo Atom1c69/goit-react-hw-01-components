@@ -1,4 +1,5 @@
 import transactions from "../../data/transactions.json";
+import TransactionHistoryItem from "../TransactionHistory/TransactionHistoryItem.jsx"
 import css from "../TransactionHistory/TransactionHistory.module.css"
 
 export const TransactionHistory = () => (<table className={css.transaction_history}>

@@ -1,4 +1,5 @@
 import data from "../../data/data.json";
+import TransactionHistoryItem from "../Statistics/StatisticsItem.jsx"
 import css from "../Statistics/Statistics.module.css"
 
 
