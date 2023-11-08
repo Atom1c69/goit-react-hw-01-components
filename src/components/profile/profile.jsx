@@ -1,6 +1,6 @@
 
 import '../../data/user.json';
-import css from "../profile/profile.module.css"
+import css from "../Profile/Profile.module.css"
 
 const Profile = (user) => (<div className={css.profile}>
 <div className={css.description}>
